@@ -1,0 +1,3 @@
+".\Obj\main.obj" 
+TO ".\Obj\template" 
+PRINT(".\Obj\template.m51") RAMSIZE(256) 
