@@ -1,0 +1,2 @@
+# 8051-uart-usb2gpio
+通过stc89c52@40Mhz12T和串口实现的usb2gpio，提供了windows下的库和示例。允许自由应用30个gpio为输入或输出
